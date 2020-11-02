@@ -12,6 +12,6 @@
 </head>
 <body>
 
-<botton class="btn btn-primary">Lorem.</botton>
+<button class="btn btn-primary">Lorem.</button>
 </body>
 </html>
